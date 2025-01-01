@@ -1,0 +1,24 @@
+# Visuals
+
+This folder contains all the graphs and visualizations used in the Lufthansa 2023 Analysis project. Each file is named to reflect its content for easy reference.
+
+## List of Visuals
+
+1. **Passenger and Revenue Share**: 
+2. **Monthly Flight Counts for Lufthansa's Busiest Routes**: `monthly_flight_counts.png`
+3. **International Revenue**: `international_revenue.png`
+4. **Domestic Revenue**: `domestic_revenue.png`
+5. **Monthly Passenger Distribution**: `monthly_passenger_distribution.png`
+6. **Monthly Passenger Trends**: `monthly_passenger_trends.png`
+7. **Passenger Types by Month**: `passenger_types_by_month.png`
+8. **Average Delay Duration**: `average_delay_duration.png`
+9. **Booking Trends by Route Type**: `booking_trends_by_route_type.png`
+10. **In-Flight Ratings**: `in_flight_ratings.png`
+11. **Baggage Handling Incidents**: `baggage_handling_incidents.png`
+12. **Passenger Traffic Growth**: `passenger_traffic_growth.png`
+13. **Flight Cancellation Rates by Season**: `flight_cancellation_rates_by_season.png`
+14. **Cancellation Causes**: `cancellation_causes.png`
+15. **Flight Completion Rates**: `flight_completion_rates.png`
+16. **Daily Flight Hours by Aircraft Type**: `daily_flight_hours_by_aircraft_type.png`
+
+Each visualization plays a crucial role in providing insights into Lufthansa's operations and passenger trends during 2023.
