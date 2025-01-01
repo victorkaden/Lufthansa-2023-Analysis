@@ -112,7 +112,7 @@ This analysis was conducted entirely by Victor Kaden, including the creation of 
 ---
 
 ## Presentation
-[View Presentation](#)
+[View Presentation](https://github.com/victorkaden/Lufthansa-2023-Analysis/blob/main/Presentation.pdf)
 
 ---
 
