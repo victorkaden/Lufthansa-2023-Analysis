@@ -1,4 +1,4 @@
 ## Presentation
 
-[View Full Presentation](./presentation/Lufthansa_2023_Analysis_Presentation.pdf)
+[View Full Presentation](https://github.com/victorkaden/Lufthansa-2023-Analysis/blob/main/presentation/Presentation.pdf)
 
